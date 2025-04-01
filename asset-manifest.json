@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itp-react-todo-list/static/css/main.76c07188.css",
+    "main.js": "/itp-react-todo-list/static/js/main.91ff1958.js",
+    "index.html": "/itp-react-todo-list/index.html",
+    "main.76c07188.css.map": "/itp-react-todo-list/static/css/main.76c07188.css.map",
+    "main.91ff1958.js.map": "/itp-react-todo-list/static/js/main.91ff1958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c07188.css",
+    "static/js/main.91ff1958.js"
+  ]
+}
